@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Facultad de Fisica//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ceremonia-reconocimiento-2026-10-29@fisica.uc.cl
+DTSTAMP:20261015T120000Z
+SUMMARY:Ceremonia de Reconocimiento de Facultad de Física
+DESCRIPTION:Ceremonia de Reconocimiento de Facultad de Física
+LOCATION:Auditorio Francisco Rosende\, Facultad de Economía\, Campus San Joaquín
+DTSTART:20261029T190000Z
+DTEND:20261029T213000Z
+END:VEVENT
+END:VCALENDAR
